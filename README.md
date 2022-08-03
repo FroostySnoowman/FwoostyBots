@@ -15,4 +15,4 @@ An HTML/CSS Website for my personal small company.
 
 <img width="960" alt="5" src="https://user-images.githubusercontent.com/49008912/182691590-cd13fbbb-33cb-4c0b-b550-a3cca01f9fc1.PNG">
 
-![Website1](https://user-images.githubusercontent.com/49008912/182691918-829b989e-d9da-4bcb-8415-9eadce705e7a.gif)
+![Website](https://user-images.githubusercontent.com/49008912/182692293-90a18396-b69e-4837-b9ce-ad2076100dc1.gif)
