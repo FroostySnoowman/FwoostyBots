@@ -14,3 +14,5 @@ An HTML/CSS Website for my personal small company.
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/49008912/182691579-89658a03-b22e-42af-810b-c8d17f06132b.PNG">
 
 <img width="960" alt="5" src="https://user-images.githubusercontent.com/49008912/182691590-cd13fbbb-33cb-4c0b-b550-a3cca01f9fc1.PNG">
+
+![Website1](https://user-images.githubusercontent.com/49008912/182691918-829b989e-d9da-4bcb-8415-9eadce705e7a.gif)
